@@ -1,0 +1,38 @@
+body{
+    font-family: "Titillium Web", sans-serif;
+}
+div.p,
+div.p1,
+#welcomeMessage
+{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+#welcomeMessage{
+    color:  #0dcaf0 ;
+}
+.btn:hover {
+    color:  #fff !important;
+    background-color: #0dcaf0 !important;
+  
+}
+a,
+.Signin{
+    color:  #fff ;
+}
+ a:hover{
+ text-decoration: underline;
+ cursor: pointer;
+ background-color: #24353f;
+ color:  #fff ;
+}
+.form-control{
+    background-color: #6a9bb8 !important;
+
+}
+ .form-control:focus {
+    
+    background-color: #24353f !important;
+     
+}
+.d-none { display: none; }
+.d-block { display: block; }
